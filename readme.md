@@ -11,9 +11,9 @@ Requirments
 
 ## How to add your part
 
-1- Clone the repo
-2- Create branch for the part from dev
-3- Write your article between start and end of the point only, don't write after end of point 😁. 
+1. Clone the repo
+2. Create branch for the part from dev
+3. Write your article between start and end of the point only, don't write after end of point 😁. 
 
 ```
 start gitflow
@@ -25,4 +25,4 @@ you will write here
 end gitflow
 ```
 
-4- Create Pull Request and merge to dev
+4. Create Pull Request and merge to dev
