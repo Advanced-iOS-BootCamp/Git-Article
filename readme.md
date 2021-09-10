@@ -25,4 +25,4 @@ you will write here
 end gitflow
 ```
 
-4. Create Pull Request and merge to dev
+4. Create Pull Request and merge to main
